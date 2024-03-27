@@ -1,0 +1,107 @@
+*{
+    background-color:#A9A9A9;
+}
+h1{
+    color: black;
+    font-size: 22;
+    background-color:#C0C0C0;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    font-size: 18;
+    background-color:#C0C0C0;
+    text-align: center;
+}
+img{
+    width: 830;
+    height: 450;
+    margin-left: 450;
+}
+ body{
+    width: 98%;
+    border: 10px solid #D3D3D3;
+     }
+     .one{
+        text-align:end;
+        width: 1700px;
+        text-indent: 50px;
+     }
+     .two{
+        text-align: justify;
+        width: 1700px;
+        text-indent: 50px;
+     }
+     .three{
+            text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .four{
+            text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     
+     .five{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .six{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .seven{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .eight{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .nine{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .ten{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .eleven{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .thirteen{
+        text-align:justify;
+            width: 1700px;
+            text-indent: 50px;
+     }
+     .fourteen{
+        text-align: right;
+     }
+     .fifteen{
+        text-align: right;
+     }
+     .seventeen{
+        width: 830;
+    height: 450;
+    margin-left: 550;
+     }
+     .twelve{
+        width: 830;
+    height: 450;
+    margin-left: 50;
+     }
+     .sixteen{
+        width: 830;
+    height: 450;
+    margin-left: 50;
+     }
